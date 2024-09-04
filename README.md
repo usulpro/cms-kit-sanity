@@ -4,6 +4,7 @@ An endeavor accumulating the experience and best practices collected at Focus Re
 
 ## What is CMS-KIT?
 
+
 CMS is the collection of ideas and their tech implementations to change how we develop modern marketing and eCommerce websites. What it includes:
 
 - **Boilerplate**. Contains all necessary customizations and integrations for seamless interaction with Headless CMS.
